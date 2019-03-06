@@ -1,10 +1,10 @@
-ICD Costs and Conditions
+<h1> <strong> ICD Costs and Conditions </strong> </h1>
 
 To view the final mapping document (ICD10 individual costs to Episode Cost of Care), 
 proceed to 'OUTPUT' folder, there is a .csv and a .pkl (python) file that can be used quickly 
 
 
-How was this created? 
+<h3> <strong> How was this created? </strong> </h3>
 
 
 Information from the Beareu of Economic Analysis (BEA) now provides economic costs per ICD condition. See below for hyperlinks. 
