@@ -1,7 +1,11 @@
 <h1> <strong> ICD Costs and Conditions </strong> </h1>
 
+## Description 
+
+This repo contains a value set for associating financial cost ($ USD) with ICD-10 diagnostic/condition codes. 
+
 To view the final mapping document (ICD10 individual costs to Episode Cost of Care), 
-proceed to 'OUTPUT' folder, there is a .csv and a .pkl (python) file that can be used quickly 
+proceed to `OUTPUT` folder, there is a .csv and a .pkl (python) file that can be used quickly 
 
 
 <h3> <strong> How was this created? </strong> </h3>
@@ -12,6 +16,7 @@ This data includes a mapping of nearly chapter ICD10 chapter categories, subsett
 
 A second dataset, provided from hcup-us, has mapping from CCS10 to ICD10. This document (link below) was then utilized to merge 
 together the BEA dataset with the HCUP dataset, to create a new dataset that has all economic information at the ICD10 level. 
+
 
 
 This data originates from a couple different sources, all government and assumed reliable: <br>
