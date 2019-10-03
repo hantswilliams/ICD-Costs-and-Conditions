@@ -18,8 +18,10 @@ A second dataset, provided from hcup-us, has mapping from CCS10 to ICD10. This d
 together the BEA dataset with the HCUP dataset, to create a new dataset that has all economic information at the ICD10 level. 
 
 
+## Original Data Sources
 
 This data originates from a couple different sources, all government and assumed reliable: <br>
+
 http://www.bea.gov/data/special-topics/health-care <br> 
 https://www.bea.gov/system/files/2019-03/Detail-Disease-Blended-forpub2.xlsx <br> 
 https://apps.bea.gov/national/viz/diseases/index.htm <br> 
